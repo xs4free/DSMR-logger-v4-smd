@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Connectors-P1)(type KiCad)(uri C:/Git/DSMR-logger-v4-smd/Modules/Connectors-P1.pretty)(options "")(descr ""))
+)
