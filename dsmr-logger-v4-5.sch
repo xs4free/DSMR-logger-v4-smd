@@ -186,7 +186,7 @@ U 1 1 5E072672
 P 8750 1900
 F 0 "J4" H 8722 1782 50  0000 R CNN
 F 1 "I2C conn" H 8722 1873 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 8750 1900 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical" H 8750 1900 50  0001 C CNN
 F 3 "~" H 8750 1900 50  0001 C CNN
 	1    8750 1900
 	-1   0    0    1   
@@ -1116,4 +1116,10 @@ Wire Notes Line
 	900  5550 3800 5550
 Wire Notes Line
 	3800 5550 3800 4450
+Text Notes 7400 7500 0    50   ~ 0
+DSMR logger
+Text Notes 10575 7650 0    50   ~ 0
+4.0
+Text Notes 8150 7650 0    50   ~ 0
+2020-04-20
 $EndSCHEMATC
